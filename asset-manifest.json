@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/farmagainpro/static/css/main.a586b8d2.chunk.css",
+    "main.js": "/farmagainpro/static/js/main.dd3127d9.chunk.js",
+    "main.js.map": "/farmagainpro/static/js/main.dd3127d9.chunk.js.map",
+    "runtime-main.js": "/farmagainpro/static/js/runtime-main.83703a03.js",
+    "runtime-main.js.map": "/farmagainpro/static/js/runtime-main.83703a03.js.map",
+    "static/js/2.62c10f7e.chunk.js": "/farmagainpro/static/js/2.62c10f7e.chunk.js",
+    "static/js/2.62c10f7e.chunk.js.map": "/farmagainpro/static/js/2.62c10f7e.chunk.js.map",
+    "static/js/3.cd6f2c74.chunk.js": "/farmagainpro/static/js/3.cd6f2c74.chunk.js",
+    "static/js/3.cd6f2c74.chunk.js.map": "/farmagainpro/static/js/3.cd6f2c74.chunk.js.map",
+    "index.html": "/farmagainpro/index.html",
+    "static/css/main.a586b8d2.chunk.css.map": "/farmagainpro/static/css/main.a586b8d2.chunk.css.map",
+    "static/js/2.62c10f7e.chunk.js.LICENSE.txt": "/farmagainpro/static/js/2.62c10f7e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/farmagainpro/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83703a03.js",
+    "static/js/2.62c10f7e.chunk.js",
+    "static/css/main.a586b8d2.chunk.css",
+    "static/js/main.dd3127d9.chunk.js"
+  ]
+}
