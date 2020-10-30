@@ -328,7 +328,7 @@ motor8=(e)=>{
   render(){
   return (
     <div className="App">
-      <div><img src="img.png" /></div> 
+      <div className="mt-2"><img src="img.png" /></div> 
       <div className="mt-4">
      FILTER MOTOR VALVE  : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label class="switch">
   <input type="checkbox" id="myCheck1" checked={this.state.motor1}  onChange={this.motor1} />
